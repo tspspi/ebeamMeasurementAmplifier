@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "VSSOP_OPA300")(type "KiCad")(uri "${KIPRJMOD}/VSSOP_OPA300.pretty")(options "")(descr ""))
+)
